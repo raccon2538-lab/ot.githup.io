@@ -1,1 +1,1 @@
-# ot.githup.io
+# ot.github.io
